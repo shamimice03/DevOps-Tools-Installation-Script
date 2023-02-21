@@ -13,4 +13,4 @@ or
 bash <script-name.sh>
 ```
 
-After ruuning a script logout from you system for once and then login to the system.
+After running a script `logout` from you system for once and then `login` to the system.
