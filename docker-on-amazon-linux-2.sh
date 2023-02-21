@@ -6,3 +6,6 @@ sudo yum -y install docker
 sudo systemctl start docker
 sudo systemctl enable docker
 sudo docker version
+sudo groupadd docker
+sudo usermod -aG docker $USER
+
