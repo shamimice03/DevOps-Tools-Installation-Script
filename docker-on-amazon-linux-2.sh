@@ -10,5 +10,5 @@ sudo groupadd docker
 sudo usermod -aG docker $USER
 
 
-# Reboot or logout and login in your system after
+
 
