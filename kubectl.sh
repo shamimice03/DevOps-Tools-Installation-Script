@@ -7,3 +7,7 @@ mkdir -p ~/.local/bin
 mv ./kubectl ~/.local/bin/kubectl
 kubectl version --client
 
+
+# Create a directory $HOME/.kube
+# Create a file named `config` and populate them with `kubeconfig`
+
