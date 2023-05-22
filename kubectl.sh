@@ -9,5 +9,5 @@ kubectl version --client
 
 
 # Create a directory $HOME/.kube
-# Create a file named `config` and populate them with `kubeconfig`
+# Create a file named `$HOME/.kube/config` and populate them with `kubeconfig`
 
